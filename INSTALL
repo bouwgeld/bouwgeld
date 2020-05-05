@@ -1,0 +1,9 @@
+Building BouwGeld
+
+See doc/readme-qt.rst for instructions on building BouwGeld-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of BouwGeld.
+
+See doc/build-*.txt for instructions on building bouwgeldd,
+the intended-for-services, no-graphical-interface, reference
+implementation of BouwGeld.
